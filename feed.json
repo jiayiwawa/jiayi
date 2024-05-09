@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "jiayi",
+    "description": "",
+    "home_page_url": "https://jiayiwawa.github.io/jiayi",
+    "feed_url": "https://jiayiwawa.github.io/jiayi/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "jiayiwawa"
+    },
+    "items": [
+        {
+            "id": "https://jiayiwawa.github.io/jiayi/xia-ada-bai-e.html",
+            "url": "https://jiayiwawa.github.io/jiayi/xia-ada-bai-e.html",
+            "title": "蝦ㄚ(大白鵝)",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jiayiwawa.github.io/jiayi/media/posts/2/S__63275073.jpg\" alt=\"\" width=\"1108\" height=\"1477\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://jiayiwawa.github.io/jiayi/media/posts/2/responsive/S__63275073-xs.jpg 300w ,https://jiayiwawa.github.io/jiayi/media/posts/2/responsive/S__63275073-sm.jpg 480w ,https://jiayiwawa.github.io/jiayi/media/posts/2/responsive/S__63275073-md.jpg 768w ,https://jiayiwawa.github.io/jiayi/media/posts/2/responsive/S__63275073-lg.jpg 1024w ,https://jiayiwawa.github.io/jiayi/media/posts/2/responsive/S__63275073-xl.jpg 1360w ,https://jiayiwawa.github.io/jiayi/media/posts/2/responsive/S__63275073-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "jiayiwawa"
+            },
+            "tags": [
+                   "dolls"
+            ],
+            "date_published": "2024-05-09T20:50:42+08:00",
+            "date_modified": "2024-05-09T20:54:55+08:00"
+        },
+        {
+            "id": "https://jiayiwawa.github.io/jiayi/hello-its-me.html",
+            "url": "https://jiayiwawa.github.io/jiayi/hello-its-me.html",
+            "title": "Hello, It&#x27;s me",
+            "summary": "hello from the other side~",
+            "content_html": "<p> </p>\n<p>hello from the other side~</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jiayiwawa.github.io/jiayi/media/posts/1/MV5BMTM2NzE1YTEtNTNjZC00MTg5LTkwOTEtNDEwMDI1ODA1YjhkXkEyXkFqcGdeQXVyNjU0ODAyOTY._V1_FMjpg_UX1000_.jpg\" alt=\"\" width=\"1000\" height=\"1000\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://jiayiwawa.github.io/jiayi/media/posts/1/responsive/MV5BMTM2NzE1YTEtNTNjZC00MTg5LTkwOTEtNDEwMDI1ODA1YjhkXkEyXkFqcGdeQXVyNjU0ODAyOTY._V1_FMjpg_UX1000_-xs.jpg 300w ,https://jiayiwawa.github.io/jiayi/media/posts/1/responsive/MV5BMTM2NzE1YTEtNTNjZC00MTg5LTkwOTEtNDEwMDI1ODA1YjhkXkEyXkFqcGdeQXVyNjU0ODAyOTY._V1_FMjpg_UX1000_-sm.jpg 480w ,https://jiayiwawa.github.io/jiayi/media/posts/1/responsive/MV5BMTM2NzE1YTEtNTNjZC00MTg5LTkwOTEtNDEwMDI1ODA1YjhkXkEyXkFqcGdeQXVyNjU0ODAyOTY._V1_FMjpg_UX1000_-md.jpg 768w ,https://jiayiwawa.github.io/jiayi/media/posts/1/responsive/MV5BMTM2NzE1YTEtNTNjZC00MTg5LTkwOTEtNDEwMDI1ODA1YjhkXkEyXkFqcGdeQXVyNjU0ODAyOTY._V1_FMjpg_UX1000_-lg.jpg 1024w ,https://jiayiwawa.github.io/jiayi/media/posts/1/responsive/MV5BMTM2NzE1YTEtNTNjZC00MTg5LTkwOTEtNDEwMDI1ODA1YjhkXkEyXkFqcGdeQXVyNjU0ODAyOTY._V1_FMjpg_UX1000_-xl.jpg 1360w ,https://jiayiwawa.github.io/jiayi/media/posts/1/responsive/MV5BMTM2NzE1YTEtNTNjZC00MTg5LTkwOTEtNDEwMDI1ODA1YjhkXkEyXkFqcGdeQXVyNjU0ODAyOTY._V1_FMjpg_UX1000_-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "jiayiwawa"
+            },
+            "tags": [
+                   "work"
+            ],
+            "date_published": "2024-05-09T20:45:41+08:00",
+            "date_modified": "2024-05-09T20:58:08+08:00"
+        }
+    ]
+}

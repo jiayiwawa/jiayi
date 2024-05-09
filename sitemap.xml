@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jiayiwawa.github.io/jiayi/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jiayiwawa.github.io/jiayi/</loc>
+</url>
+<url>
+<loc>https://jiayiwawa.github.io/jiayi/hello-its-me.html</loc>
+<lastmod>2024-05-09T20:58:08+08:00</lastmod>
+<image:image>
+<image:loc>https://jiayiwawa.github.io/jiayi/media/posts/1/MV5BMTM2NzE1YTEtNTNjZC00MTg5LTkwOTEtNDEwMDI1ODA1YjhkXkEyXkFqcGdeQXVyNjU0ODAyOTY._V1_FMjpg_UX1000_.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jiayiwawa.github.io/jiayi/xia-ada-bai-e.html</loc>
+<lastmod>2024-05-09T20:54:55+08:00</lastmod>
+<image:image>
+<image:loc>https://jiayiwawa.github.io/jiayi/media/posts/2/S__63275073.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
